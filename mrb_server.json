@@ -1,0 +1,32 @@
+{
+  "current": 2,
+  "servers": [
+    {
+      "id": 1,
+      "weburl": "https://server1.example.com",
+      "ftpurl": "ftp://server1.example.com",
+      "ftpuser": "user1",
+      "ftppwd": "password1",
+      "ftpdirrb": "/remote/backup",
+      "ftpdirkey": "/remote/highavi"
+    },
+    {
+      "id": 2,
+      "weburl": "https://server2.example.com",
+      "ftpurl": "ftp://server2.example.com",
+      "ftpuser": "user2",
+      "ftppwd": "password2",
+      "ftpdirrb": "/remote/backup",
+      "ftpdirkey": "/remote/highavi"
+    },
+    {
+      "id": 3,
+      "weburl": "https://server3.example.com",
+      "ftpurl": "ftp://server3.example.com",
+      "ftpuser": "user3",
+      "ftppwd": "password3",
+      "ftpdirrb": "/remote/backup",
+      "ftpdirkey": "/remote/highavi"
+    }
+  ]
+}
